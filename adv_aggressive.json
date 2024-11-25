@@ -1,0 +1,28 @@
+{
+    "investment_amount": 50000,
+    "current_portfolio": [
+        {"symbol": "ARKK", "quantity": 10},
+        {"symbol": "MSFT", "quantity": 5},
+		{"symbol": "ROKU", "quantity": 33},
+		{"symbol": "ZM", "quantity": 10}
+		
+		
+    ],
+    "risk_profile": "aggressive",
+	"available_assets": [
+		{"symbol": "TSLA"},
+		{"symbol": "NVDA"},
+		{"symbol": "AMZN"},
+		{"symbol": "META"},
+		{"symbol": "ARKK"},
+		{"symbol": "QQQ"},
+		{"symbol": "SOXX"},
+		{"symbol": "CRM"},
+		{"symbol": "MSFT"},
+		{"symbol": "SHOP"},
+		{"symbol": "ZM"},
+		{"symbol": "SPOT"}
+	]
+
+
+}

@@ -1,0 +1,22 @@
+{
+    "investment_amount": 25000,
+    "current_portfolio": [
+        {"symbol": "AAPL", "quantity": 10},
+        {"symbol": "TSLA", "quantity": 5}
+    ],
+    "risk_profile": "growth",
+	"available_assets": [
+		{"symbol": "AAPL"},
+		{"symbol": "TSLA"},
+		{"symbol": "NVDA"},
+		{"symbol": "AMZN"},
+		{"symbol": "MSFT"},
+		{"symbol": "GOOGL"},
+		{"symbol": "META"},
+		{"symbol": "CRM"},
+		{"symbol": "SHOP"},
+		{"symbol": "SQ"}
+	]
+
+
+}

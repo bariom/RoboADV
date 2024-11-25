@@ -1,0 +1,21 @@
+{
+    "investment_amount": 10000,
+    "current_portfolio": [
+        {"symbol": "QQQ", "quantity": 25},
+        {"symbol": "TSLA", "quantity": 50}
+    ],
+    "risk_profile": "conservative",
+	"available_assets": [
+		{"symbol": "AGG"},
+		{"symbol": "BND"},
+		{"symbol": "TLT"},
+		{"symbol": "SCHP"},
+		{"symbol": "GLD"},
+		{"symbol": "VNQ"},
+		{"symbol": "MUB"},
+		{"symbol": "VIG"},
+		{"symbol": "USMV"},
+		{"symbol": "XLP"}
+	]
+
+}

@@ -1,0 +1,22 @@
+{
+    "investment_amount": 10000,
+    "current_portfolio": [
+        {"symbol": "QQQ", "quantity": 10},
+        {"symbol": "TSLA", "quantity": 5}
+    ],
+    "risk_profile": "moderate",
+	"available_assets": [
+		{"symbol": "AAPL"},
+		{"symbol": "MSFT"},
+		{"symbol": "JNJ"},
+		{"symbol": "VIG"},
+		{"symbol": "SPY"},
+		{"symbol": "VNQ"},
+		{"symbol": "AGG"},
+		{"symbol": "VEA"},
+		{"symbol": "VWO"},
+		{"symbol": "GLD"}
+	]
+
+
+}

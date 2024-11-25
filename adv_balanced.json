@@ -1,0 +1,21 @@
+{
+    "investment_amount": 10000,
+    "current_portfolio": [
+        {"symbol": "AAPL", "quantity": 10},
+        {"symbol": "TSLA", "quantity": 5}
+    ],
+    "risk_profile": "balanced",
+	"available_assets": [
+		{"symbol": "AAPL"},
+		{"symbol": "TSLA"},
+		{"symbol": "GOOGL"},
+		{"symbol": "AMZN"},
+		{"symbol": "SPY"},
+		{"symbol": "AGG"},
+		{"symbol": "GLD"},
+		{"symbol": "VNQ"},
+		{"symbol": "VEA"},
+		{"symbol": "VWO"}
+	]
+
+}
